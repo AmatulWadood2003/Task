@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a.txt edited
+=======
+a.txt edited in auto-taxi
+>>>>>>> auto-taxi
